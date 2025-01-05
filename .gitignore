@@ -53,3 +53,5 @@ CATKIN_IGNORE
 temp*
 test*
 Backup*
+
+venv/
